@@ -1,0 +1,45 @@
+body{
+    background-image: url("img.webp");
+    background-size:cover;
+}
+h1{
+    color: aliceblue;
+}
+.container{
+    text-align: center;
+    margin-top: 3%;
+}
+.contain-calc{
+    display: inline-block;
+      
+}
+table{
+    margin: auto;
+    margin-top: 20px;
+}
+
+input{
+    font-size: 35px;
+    border: 5px solid rgb(252, 250, 174);
+    border-radius: 15px;
+}
+button{
+    font-size:42px;
+    width: 109px;
+    height: 63px;
+    background: rgb(247, 244, 219);
+    border: 5px solid rgb(255, 216, 109);
+    border-radius: 20px;
+}
+button:hover{
+    transition: 200ms;
+   scale:1.03;
+   background-color: rgb(161, 228, 191);
+   box-shadow: 0 8px 16px 0 rgba(4, 36, 131, 0.582);
+  }
+.b2{
+    background-color: rgb(97, 255, 6);
+}
+.b1{
+    background-color: rgb(255, 13, 13);
+}
